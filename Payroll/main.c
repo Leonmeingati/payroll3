@@ -1,7 +1,6 @@
 /*
 PAYROLL SYSSTEM
-CREATED BY Ryan towett.
-ON MARCH 2022
+CREATED BY leon meingati
 MIT LINCENSE
 C99
 */
